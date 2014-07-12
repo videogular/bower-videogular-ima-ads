@@ -1,5 +1,8 @@
 CHANGELOG
 ================
+## v0.4.2
+* Bump version.
+
 ## v0.4.1
 * Bump version.
 
