@@ -1,7 +1,7 @@
 {
   "name": "videogular-ima-ads",
   "version": "1.0.0",
-  "main": "./ima-ads.js",
+  "main": "./vg-ima-ads.js",
   "dependencies": {
     "videogular": "latest"
   }
