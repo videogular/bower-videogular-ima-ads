@@ -3,6 +3,6 @@
   "version": "1.2.3",
   "main": "./vg-ima-ads.js",
   "dependencies": {
-    "videogular": “1.2.3”
+    "videogular": "1.2.3"
   }
 }
