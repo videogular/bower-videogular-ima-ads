@@ -1,6 +1,6 @@
 {
 	"name": "videogular-ima-ads",
-	"version": "1.2.5",
+	"version": "1.2.6",
 	"dependencies": {},
 	"devDependencies": {
 		"grunt": "~0.4.1",
